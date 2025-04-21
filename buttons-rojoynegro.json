@@ -1,0 +1,16 @@
+{
+  "buttons": [
+    {
+      "title": "Cursos + Certificado",
+      "url": "https://ejemplo.com/cursos"
+    },
+    {
+      "title": "Cuentas de Steam",
+      "url": "https://ejemplo.com/cuentas"
+    },
+    {
+      "title": "Cuentas Streaming",
+      "url": "https://ejemplo.com/streaming"
+    }
+  ]
+}
